@@ -4,8 +4,8 @@
      ORB_SLAM2
 
   </description>
-  <author>Raul Mur-Artal</author>
-  <license>GPLv3</license>
+  <author email=zhangteng03@inspur.com>CUMT_ZT</author>
+  <license>BSD 3-Clause</license>
   <depend package="roscpp"/>
   <depend package="tf"/>
   <depend package="sensor_msgs"/>
